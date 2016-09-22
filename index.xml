@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My online shed</title>
-    <link>http://www.abstract-it.uk/</link>
+    <link>https://www.abstract-it.uk/</link>
     <description>Recent content on My online shed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 22 Sep 2016 23:21:38 +0000</lastBuildDate>
-    <atom:link href="http://www.abstract-it.uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.abstract-it.uk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
-      <link>http://www.abstract-it.uk/post/welcome/</link>
+      <link>https://www.abstract-it.uk/post/welcome/</link>
       <pubDate>Thu, 22 Sep 2016 23:21:38 +0000</pubDate>
       
-      <guid>http://www.abstract-it.uk/post/welcome/</guid>
+      <guid>https://www.abstract-it.uk/post/welcome/</guid>
       <description>
 
 &lt;h1 id=&#34;a-new-beginning-with-hugo&#34;&gt;A new beginning with Hugo&lt;/h1&gt;
