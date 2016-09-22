@@ -6,16 +6,25 @@
     <description>Recent content on My online shed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 20 Mar 2016 23:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2016 23:21:38 +0000</lastBuildDate>
     <atom:link href="http://www.abstract-it.uk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
       <link>http://www.abstract-it.uk/post/welcome/</link>
-      <pubDate>Sun, 20 Mar 2016 23:21:38 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2016 23:21:38 +0000</pubDate>
       
       <guid>http://www.abstract-it.uk/post/welcome/</guid>
-      <description>&lt;p&gt;A new beginning with Hugo&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;a-new-beginning-with-hugo&#34;&gt;A new beginning with Hugo&lt;/h1&gt;
+
+&lt;p&gt;This site hangs together with :
+1. &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
+2. &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;
+3. &lt;a href=&#34;https://www.cloudflare.com&#34;&gt;Cloudflare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In a future post, I will explain in detail how they link up.&lt;/p&gt;
 </description>
     </item>
     
